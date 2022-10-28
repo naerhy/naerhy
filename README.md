@@ -16,9 +16,9 @@
 
 |                        **Project**                       |       **Description**      |   **Tools**  |    **Date**    | **Mark** |
 |:--------------------------------------------------------:|:--------------------------:|:------------:|:--------------:|:--------:|
-|                           libft                          |                            |              |  November 2020 |  125/100 |
-|                       get_next_line                      |                            |              |  November 2020 |  107/100 |
-|                         ft_printf                        |                            |              |  December 2020 |  100/100 |
+|         [libft](https://github.com/Naerhy/libft)         |       Small C library      |       C      |  November 2020 |  125/100 |
+| [get_next_line](https://github.com/Naerhy/get_next_line) |     Read line function     |       C      |  November 2020 |  107/100 |
+|     [ft_printf](https://github.com/Naerhy/ft_printf)     |     Own printf function    |       C      |  December 2020 |  100/100 |
 |                          netwhat                         |                            |              |  December 2020 |  100/100 |
 |                          so_long                         |                            |              |    July 2021   |  100/100 |
 |                           pipex                          |                            |              |   August 2021  |  100/100 |
