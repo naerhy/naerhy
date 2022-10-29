@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile banner](https://i.imgur.com/SCGIh89.png)
+![Profile banner](https://i.imgur.com/YY1l5dl.png)
 
 </div>
 
