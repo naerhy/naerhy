@@ -1,3 +1,9 @@
+<div align="center">
+
+![Profile banner](https://i.imgur.com/SCGIh89.png)
+
+</div>
+
 # :hash: Aaaaaughibbrgubugbugrguburgle!
 
 *I used to be an adventurer like you, then I took an arrow to the knee.*
