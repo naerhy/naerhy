@@ -35,5 +35,6 @@
 |   [cpp-modules](https://github.com/Naerhy/cpp-modules)   |      Lot of small CPP exercises      |      C++     |    July 2022   |  100/100 |
 | [ft_containers](https://github.com/Naerhy/ft_containers) |          Own STL containers          |      C++     |  October 2022  |  100/100 |
 |     [inception](https://github.com/Naerhy/inception)     | Small web app with own Docker images |    Docker    |  November 2022 |  100/100 |
+|        [ft_irc](https://github.com/Naerhy/ft_irc)        |           Basic IRC server           |      C++     |  February 2023 |  125/100 |
 
 </div>
