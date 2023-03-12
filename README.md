@@ -12,8 +12,8 @@
 
 * Looking for an internship
 * Currently studying at 42 Paris School
-* Love swimming
-* Probably waste too much time playing video games
+* Swimming competitively (Masters)
+* Used to be very good at video games, now playing casually
 * Summer is an overrated season
 
 ## :two: Projects for 42 Paris School
