@@ -12,11 +12,18 @@
 
 * Looking for an internship
 * Currently studying at 42 Paris School
+* Crypto enthusiast
 * Swimming competitively (Masters)
 * Used to be very good at video games, now playing casually
 * Summer is an overrated season
 
-## :two: Projects for 42 Paris School
+## :two: It is possible to fly without motors, but not without knowledge and skill
+
+Programming languages: ![bash](img/bash.svg) ![c](img/c.svg) ![cpp](img/cpp.svg) ![javascript](img/javascript.svg)  
+Web: ![html](img/html.svg) ![css](img/css.svg)  
+Tools: ![docker](img/docker.svg)
+
+## :three: Projects for 42 Paris School
 
 <div align="center">
 
