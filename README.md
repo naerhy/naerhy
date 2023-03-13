@@ -21,11 +21,11 @@
 
 ### Programming languages
 
-![bash](img/bash.svg)  ![c](img/c.svg)  ![cpp](img/cpp.svg)  ![javascript](img/javascript.svg)
+![bash](img/bash.svg) ![c](img/c.svg) ![cpp](img/cpp.svg) ![javascript](img/javascript.svg)
 
 ### Web
 
-![html](img/html.svg)  ![css](img/css.svg)
+![html](img/html.svg) ![css](img/css.svg)
 
 ### Tools
 
