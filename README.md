@@ -19,9 +19,17 @@
 
 ## :two: It is possible to fly without motors, but not without knowledge and skill
 
-Programming languages: ![bash](img/bash.svg) ![c](img/c.svg) ![cpp](img/cpp.svg) ![javascript](img/javascript.svg)  
-Web: ![html](img/html.svg) ![css](img/css.svg)  
-Tools: ![docker](img/docker.svg)
+### Programming languages
+
+![bash](img/bash.svg) ![c](img/c.svg) ![cpp](img/cpp.svg) ![javascript](img/javascript.svg)
+
+### Web
+
+![html](img/html.svg) ![css](img/css.svg)
+
+### Tools
+
+![docker](img/docker.svg)
 
 ## :three: Projects for 42 Paris School
 
