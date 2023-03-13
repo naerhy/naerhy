@@ -4,11 +4,11 @@
 
 </div>
 
-# :hash: Aaaaaughibbrgubugbugrguburgle!
+# Aaaaaughibbrgubugbugrguburgle!
 
 *I used to be an adventurer like you, then I took an arrow to the knee.*
 
-## :one: Not so interesting facts about me
+## Not so interesting facts about me
 
 * Looking for an internship
 * Currently studying at 42 Paris School
@@ -17,21 +17,21 @@
 * Used to be very good at video games, now playing casually
 * Summer is an overrated season
 
-## :two: It is possible to fly without motors, but not without knowledge and skill
+## "It is possible to fly without motors, but not without knowledge and skill"
 
 ### Programming languages
 
-![bash](img/bash.svg) ![c](img/c.svg) ![cpp](img/cpp.svg) ![javascript](img/javascript.svg)
+![bash](img/bash.svg)  ![c](img/c.svg)  ![cpp](img/cpp.svg)  ![javascript](img/javascript.svg)
 
 ### Web
 
-![html](img/html.svg) ![css](img/css.svg)
+![html](img/html.svg)  ![css](img/css.svg)
 
 ### Tools
 
 ![docker](img/docker.svg)
 
-## :three: Projects for 42 Paris School
+## Projects for 42 Paris School
 
 <div align="center">
 
