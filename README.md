@@ -12,6 +12,7 @@
 
 * Looking for an internship
 * Currently studying at 42 Paris School
+* Failed to become a professional illustrator in the past
 * Crypto enthusiast
 * Swimming competitively (Masters)
 * Used to be very good at video games, now playing casually
@@ -36,7 +37,7 @@
 <div align="center">
 
 | **Project** | **Description** | **Tools** | **Date** | **Mark** |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [libft](https://github.com/Naerhy/libft) | Small C library | C | November 2020 | 125/100 |
 | [get_next_line](https://github.com/Naerhy/get_next_line) | Read line function | C | November 2020 | 107/100 |
 | [ft_printf](https://github.com/Naerhy/ft_printf) | Own printf function | C | December 2020 | 100/100 |
